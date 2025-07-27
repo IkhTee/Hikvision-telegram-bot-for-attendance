@@ -1,0 +1,3 @@
+{"chat_id": 738678945, "name": "черт", "phone": "+998946452004", "student_id": "20201234", "language": "ru", "entry_on": 0, "exit_on": 0, "late_on": 0, "registered_at": "2025-07-15T23:52:46.618675"}
+{"chat_id": 140467689, "name": "Петров Василий Петрович", "phone": "+998977281555", "student_id": "20205678", "language": "ru", "entry_on": 1, "exit_on": 1, "late_on": 1, "registered_at": "2025-07-15T23:53:20.584640"}
+{"chat_id": 7713541561, "name": "рополпрол", "phone": "+998334546598", "student_id": "20205678", "language": "uz", "entry_on": 0, "exit_on": 0, "late_on": 0, "registered_at": "2025-07-16T00:19:57.437036"}

@@ -1,0 +1,16 @@
+[
+  {
+    "student_id": "20201234",
+    "name": "Akbarov Doston",
+    "birthdate": "2005-04-15",
+    "registration_code": "XJ29Q9",
+    "telegram_chat_id": 738678945
+  },
+  {
+    "student_id": "20205678",
+    "name": "Tursunova Dilnoza",
+    "birthdate": "2006-09-02",
+    "registration_code": "KZ71AA",
+    "telegram_chat_id": null
+  }
+]
